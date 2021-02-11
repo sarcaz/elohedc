@@ -1,0 +1,23 @@
+{
+  "name": "com.initzero.elotouch",
+  "version": "0.1.0",
+  "description": "EloTouch Plugin",
+  "cordova": {
+    "id": "com.initzero.elotouch",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC"
+}
